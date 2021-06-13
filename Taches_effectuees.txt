@@ -1,0 +1,19 @@
+1. changement couleur active sur formation : -----> Pascal Ebanda
+2. Modification Logo section Header : ----> Borel Lobriche
+    Style-Starter.css : { 
+        L 20 -----> 24
+        L 34 -----> 38 
+        L 49 -----> 52
+    }
+3. Modification couleur Fond de main et w3l-breadcrumb + changement 
+    A propos en Formations : ----> Borel 
+        Style-Starter.css : {
+            L 118 
+            L 11522
+        }
+        formations.html {
+            L 189
+        }
+4. Suppression de User Experience dans les panels de formation: ----> Kevin T
+5. Afout du find out more dans le dernier panel des formations gratuites: ----> kevin T
+6. Uniformisation de savoir plus dans les panels des deux types de formation: ----> kevin T
